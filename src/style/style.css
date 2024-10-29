@@ -1,0 +1,61 @@
+.nav-item.active .nav-link {
+    font-weight: bold;
+    color: white;
+    border-radius: 15px; 
+}
+
+footer {
+    width: 100%; 
+    position: relative; 
+    bottom: 0; 
+}
+
+header {
+    margin-bottom: 50px; 
+}
+
+.custom-image {
+    border-radius: 15px; 
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto; 
+}
+
+.btn-outline-brown {
+    border-color: saddlebrown;
+    color:saddlebrown;
+}
+
+.btn-outline-brown:hover {
+    background-color: saddlebrown;
+    color: white;
+}
+
+.btn-brown {
+    background-color: saddlebrown;
+    color: white;
+}
+
+.btn-brown:hover {
+    background-color: rgb(73, 35, 8);
+    color: white;
+}
+
+.text-brown{
+    color:rgb(86, 37, 3);
+}
+
+.text-brown-2{
+    color: #645b5a;
+}
+
+.bg-brown {
+    background-color: #645b5a; 
+}
+
+.bg-brown:hover {
+    background-color: #645b5a;
+    color: white;
+}
+
+
