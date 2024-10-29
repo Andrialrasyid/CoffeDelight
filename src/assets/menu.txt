@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "category": "Coffee",
+        "name": "Black Coffee",
+        "price": 15000,
+        "description": "Strong black coffee with a rich aroma",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 2,
+        "category": "Coffee",
+        "name": "Latte",
+        "price": 18000,
+        "description": "Latte made with fresh milk",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 3,
+        "category": "Coffee",
+        "name": "Mocha",
+        "price": 20000,
+        "description": "A soft blend of coffee and chocolate",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 4,
+        "category": "Coffee",
+        "name": "Espresso",
+        "price": 16000,
+        "description": "Strong espresso coffee brewed quickly",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 5,
+        "category": "Coffee",
+        "name": "Cappuccino",
+        "price": 18000,
+        "description": "Fluffy cappuccino topped with cocoa",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 6,
+        "category": "Coffee",
+        "name": "Macchiato",
+        "price": 17000,
+        "description": "Macchiato coffee with a thin layer of milk",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 7,
+        "category": "Coffee",
+        "name": "Americano",
+        "price": 15000,
+        "description": "Classic Americano with a smooth coffee flavor",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 8,
+        "category": "Coffee",
+        "name": "Affogato",
+        "price": 20000,
+        "description": "Vanilla ice cream drizzled with espresso",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 9,
+        "category": "Coffee",
+        "name": "Cold Brew",
+        "price": 17000,
+        "description": "Cold brew coffee with a smoother taste",
+        "image": "src/assets/coffee.jpeg"
+    },
+    {
+        "id": 10,
+        "category": "Tea",
+        "name": "Green Tea",
+        "price": 12000,
+        "description": "Organic green tea that soothes the senses",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 11,
+        "category": "Tea",
+        "name": "Black Tea",
+        "price": 13000,
+        "description": "Strong black tea with robust flavor",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 12,
+        "category": "Tea",
+        "name": "Herbal Tea",
+        "price": 11000,
+        "description": "Fresh herbal tea that promotes wellness",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 13,
+        "category": "Tea",
+        "name": "Oolong Tea",
+        "price": 14000,
+        "description": "Oolong tea with a floral aroma",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 14,
+        "category": "Tea",
+        "name": "Cinnamon Tea",
+        "price": 15000,
+        "description": "Tea with a warm cinnamon flavor",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 15,
+        "category": "Tea",
+        "name": "Jasmine Tea",
+        "price": 13000,
+        "description": "Aromatic jasmine tea that refreshes",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 16,
+        "category": "Tea",
+        "name": "Mint Tea",
+        "price": 12000,
+        "description": "Refreshing cold mint tea",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 17,
+        "category": "Tea",
+        "name": "Earl Grey Tea",
+        "price": 14000,
+        "description": "Black tea infused with bergamot",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 18,
+        "category": "Tea",
+        "name": "Chai Tea",
+        "price": 15000,
+        "description": "Spiced chai tea with milk",
+        "image": "src/assets/tea.jpeg"
+    },
+    {
+        "id": 19,
+        "category": "Milk",
+        "name": "Milk Tea",
+        "price": 20000,
+        "description": "Tea blended with fresh milk",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 20,
+        "category": "Milk",
+        "name": "Creamy Latte",
+        "price": 22000,
+        "description": "Delicious creamy latte",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 21,
+        "category": "Milk",
+        "name": "Chocolate Milkshake",
+        "price": 25000,
+        "description": "Sweet chocolate milkshake",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 22,
+        "category": "Milk",
+        "name": "Vanilla Milkshake",
+        "price": 24000,
+        "description": "Smooth vanilla milkshake",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 23,
+        "category": "Milk",
+        "name": "Milk Cappuccino",
+        "price": 23000,
+        "description": "Cappuccino with creamy milk",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 24,
+        "category": "Milk",
+        "name": "Milk Pudding",
+        "price": 15000,
+        "description": "Smooth milk pudding with toppings",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 25,
+        "category": "Milk",
+        "name": "Chocolate Milk",
+        "price": 16000,
+        "description": "Fresh chocolate milk",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 26,
+        "category": "Milk",
+        "name": "Vanilla Smoothie",
+        "price": 22000,
+        "description": "Creamy vanilla smoothie",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 27,
+        "category": "Milk",
+        "name": "Fruity Milkshake",
+        "price": 26000,
+        "description": "Refreshing fruit milkshake",
+        "image": "src/assets/milk.jpeg"
+    },
+    {
+        "id": 28,
+        "category": "Frappe",
+        "name": "Chocolate Frappe",
+        "price": 30000,
+        "description": "Cold chocolate frappe topped with cream",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 29,
+        "category": "Frappe",
+        "name": "Coffee Frappe",
+        "price": 28000,
+        "description": "Strong coffee frappe with rich flavor",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 30,
+        "category": "Frappe",
+        "name": "Vanilla Frappe",
+        "price": 32000,
+        "description": "Smooth vanilla frappe with sprinkles",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 31,
+        "category": "Frappe",
+        "name": "Caramel Frappe",
+        "price": 35000,
+        "description": "Sweet creamy caramel frappe",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 32,
+        "category": "Frappe",
+        "name": "Mint Frappe",
+        "price": 30000,
+        "description": "Refreshing mint frappe",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 33,
+        "category": "Frappe",
+        "name": "Strawberry Frappe",
+        "price": 34000,
+        "description": "Sweet strawberry frappe with toppings",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 34,
+        "category": "Frappe",
+        "name": "Matcha Frappe",
+        "price": 36000,
+        "description": "Matcha frappe with a touch of cream",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 35,
+        "category": "Frappe",
+        "name": "Coconut Frappe",
+        "price": 37000,
+        "description": "Creamy coconut frappe with a tropical taste",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 36,
+        "category": "Frappe",
+        "name": "Almond Frappe",
+        "price": 38000,
+        "description": "Nutty almond frappe with whipped cream",
+        "image": "src/assets/frappe.jpeg"
+    },
+    {
+        "id": 37,
+        "category": "Snacks",
+        "name": "Chocolate Pastry",
+        "price": 20000,
+        "description": "Chocolate pastry with melted Belgian chocolate filling",
+        "image": "src/assets/snack.jpeg"
+    },
+    {
+        "id": 38,
+        "category": "Snacks",
+        "name": "Croissant",
+        "price": 22000,
+        "description": "Buttery croissant with a soft texture and crispy layers",
+        "image": "src/assets/snack.jpeg"
+    },
+    {
+        "id": 39,
+        "category": "Snacks",
+        "name": "Chicken Sandwich",
+        "price": 25000,
+        "description": "Grilled chicken sandwich with fresh vegetables",
+        "image": "src/assets/snack.jpeg"
+    },
+    {
+        "id": 40,
+        "category": "Snacks",
+        "name": "Blueberry Muffin",
+        "price": 15000,
+        "description": "Muffin with fresh blueberry pieces inside",
+        "image": "src/assets/snack.jpeg"
+    },
+    {
+        "id": 41,
+        "category": "Snacks",
+        "name": "Brownies",
+        "price": 20000,
+        "description": "Rich chocolate brownies that are sweet and delicious",
+        "image": "src/assets/snack.jpeg"
+    },
+    {
+        "id": 42,
+        "category": "Snacks",
+        "name": "Spring Roll",
+        "price": 18000,
+        "description": "Crispy vegetable spring rolls",
+        "image": "src/assets/snack.jpeg"
+    },
+    {
+        "id": 43,
+        "category": "Snacks",
+        "name": "Potato Chips",
+        "price": 15000,
+        "description": "Salty potato chips",
+        "image": "src/assets/snack.jpeg"
+    },
+    {
+        "id": 44,
+        "category": "Snacks",
+        "name": "Cookies",
+        "price": 17000,
+        "description": "Crunchy cookies with chocolate chips",
+        "image": "src/assets/snack.jpeg"
+    },
+    {
+        "id": 45,
+        "category": "Snacks",
+        "name": "Cheesecake",
+        "price": 25000,
+        "description": "Smooth cheesecake topped with fruit",
+        "image": "src/assets/snack.jpeg"
+    }
+]
