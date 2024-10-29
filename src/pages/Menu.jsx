@@ -22,6 +22,55 @@ const Menu = () => {
         { name: 'Snacks', icon: 'bi bi-basket' },
     ];
 
+    return (
+        <div className="container-fluid" style={{ marginTop: '120px' }}>
+            <div className="row">
+                {/* Left Navigation for Categories */}
+                <div className="col-md-3">
+                    <ul className="list-group">
+                        {categories.map(({ name, icon }) => (
+                            <li key={name} className="list-group-item">
+                                <button 
+                                    className={`btn btn-link text-left ${activeCategory === name ? 'bg-brown text-white' : 'text-secondary'}`} 
+                                    onClick={() => setActiveCategory(name)}
+                                    style={{ 
+                                        width: '100%', 
+                                        display: 'flex', 
+                                        alignItems: 'center', 
+                                        fontSize: '1.25rem', 
+                                        fontWeight: 'normal', 
+                                        borderRadius: '5px', 
+                                    }}
+                                >
+                                    <i className={icon} style={{ marginRight: '10px' }}></i>
+                                    {name} Series
+                                </button>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+
+                {/* Right Section for Product Cards */}
+                <div className="col-md-9">
+                    <div className="row justify-content-center">
+                        {items
+                            .filter(item => item.category === activeCategory)
+                            .map((item) => (
+                                <div className="col-md-4 mb-4" key={item.id}>
+                                    <MenuItem 
+                                        name={item.name} 
+                                        price={item.price} 
+                                        description={item.description} 
+                                        image={item.image} 
+                                    />
+                                </div>
+                            ))
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
 
 };
 
